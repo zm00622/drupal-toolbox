@@ -16,3 +16,14 @@ $ mv composer.phar /usr/local/bin/composer
 $ composer
 
 _________________________
+
+Encountered problem installing admin toolbar module. Ran this command to find out why composer would not install the admin toolbar:
+
+composer prohibits drupal/admin_toolbar
+
+Received the following error: 
+
+  [Symfony\Component\Console\Exception\RuntimeException]  
+  Not enough arguments (missing: "version").              
+
+_________________________
