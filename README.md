@@ -1,2 +1,13 @@
 # drupal-toolbox
 This toolbox is going to provide me with the notes and resources I acquire as I learn Drupal!
+
+This morning I had an ensure where I encountered a "composer command not found error."
+
+This StackOverflow comment was the fix:
+
+Well I tried a lot of things but none seemed to be working. But the following process did it right, I can now use composer command in terminal. I'm in mac OS 10.12.1
+
+$ curl -sS https://getcomposer.org/installer | php
+$ chmod +x composer.phar
+$ mv composer.phar /usr/local/bin/composer
+$ composer
