@@ -1,6 +1,9 @@
 # drupal-toolbox
 This toolbox is going to provide me with the notes and resources I acquire as I learn Drupal!
 
+_________________________
+
+
 This morning I had an ensure where I encountered a "composer command not found error."
 
 This StackOverflow comment was the fix:
@@ -11,3 +14,5 @@ $ curl -sS https://getcomposer.org/installer | php
 $ chmod +x composer.phar
 $ mv composer.phar /usr/local/bin/composer
 $ composer
+
+_________________________
