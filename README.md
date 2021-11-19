@@ -1,4 +1,4 @@
-# drupal-toolbox
+## drupal-toolbox
 This toolbox is going to provide me with the notes and resources I acquire as I learn Drupal!
 
 _________________________
@@ -27,3 +27,13 @@ Received the following error:
   Not enough arguments (missing: "version").              
 
 _________________________
+
+## drush commands for migration
+
+First, delete uid in new config file
+
+drush cim (config import)
+
+drush cex (config export)
+
+drush migrate import
