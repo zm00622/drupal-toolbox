@@ -45,3 +45,11 @@ ________________________
 https://backstage.forgerock.com/docs/ds/7.1/config-guide/proxy.html
 
 *See "Try the CTS example" at the bottom of the page*
+
+## DS 7.1 Getting Started
+
+https://backstage.forgerock.com/docs/ds/7.1/getting-started/preface.html
+
+## Platform Setup Guide (Sent from Chase in Slack)
+
+https://backstage.forgerock.com/docs/platform/7.1/platform-setup-guide/
