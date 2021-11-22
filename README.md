@@ -37,3 +37,11 @@ drush cim (config import)
 drush cex (config export)
 
 drush migrate import
+
+________________________
+
+## How to configure the Forgerock DS and AM Servers for CTS:
+
+https://backstage.forgerock.com/docs/ds/7.1/config-guide/proxy.html
+
+*See "Try the CTS example" at the bottom of the page*
